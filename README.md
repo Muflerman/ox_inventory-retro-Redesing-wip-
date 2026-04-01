@@ -1,3 +1,6 @@
+I'm uploading the file in zip format because I'm lazy. sorry
+
+
 # ox_inventory (Custom Fork)
 
 > [!IMPORTANT]
